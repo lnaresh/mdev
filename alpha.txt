@@ -25,7 +25,7 @@ added config 5
 
 feature()
 {
-
+added a feature read data via i2c
 }
 
 
