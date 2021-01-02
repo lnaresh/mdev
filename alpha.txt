@@ -16,7 +16,11 @@ add the setting3
 
 configuration
 {
-
+added config 1
+added config 2
+added config 3
+added config 4
+added config 5
 }
 
 feature()
