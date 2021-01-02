@@ -8,7 +8,9 @@ irq
 
 setting()
 {
-
+just add the setting1
+add the setting2
+add the setting3
 
 }
 
