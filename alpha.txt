@@ -1,6 +1,9 @@
 Initialization()
 {
-
+open a specific driver
+populate the intial settigs from the header file
+from generic driver handle to actual device handle
+irq
 }
 
 setting()
