@@ -16,16 +16,20 @@ add the setting3
 
 configuration
 {
-added config 1
-added config 2
-added config 3
-added config 4
-added config 5
+modified newcfg x
+modified newcfg y
+modified cfg z
+added cfg a
+added cfg b
 }
 
 feature()
 {
-added a feature read data via i2c
+this branch has to be updated
+w.rt. the users branch
+
+providing facitlity to merge
+
 }
 
 
